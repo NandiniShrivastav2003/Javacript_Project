@@ -1,0 +1,44 @@
+/* body{
+    background: rgb(2,0,36);
+background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(121,44,9,1) 35%, rgba(7,62,156,1) 52%, rgba(171,6,85,1) 59%, rgba(5,162,183,1) 65%, rgba(220,2,179,1) 83%, rgba(0,212,255,1) 100%);
+} */
+body{
+    background: #9796f0;  /* fallback for old browsers */
+background: -webkit-linear-gradient(to bottom, #fbc7d4, #9796f0);  /* Chrome 10-25, Safari 5.1-6 */
+background: linear-gradient(to bottom, #fbc7d4, #9796f0); /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+
+}
+.container {
+background-color: black;
+color: white;
+text-align: center;
+}
+.col-md-8{
+    
+        margin-left: 16vw;
+        margin-top: 4vw;
+    
+}
+
+/* table,th,td{
+    border: 1px solid black;
+    border-collapse: collapse;
+} */
+table{
+    width:100%;
+    margin-left: 177px;
+    background-color: white; 
+
+/* td,th{
+    text-align: left;
+}
+th{
+    background-color: black;
+    color:white;
+}
+tr{
+    border-bottom: 1px solid #ddd;
+}
+tr:hover{
+    background-color: blueviolet;
+} */
